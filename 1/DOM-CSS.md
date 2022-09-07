@@ -25,7 +25,7 @@
 ---
 
 ##### How do I select something in the DOM?
-- using a JS method with the format <element of document interface>.<selection method>(<name of selector>);
+- using a JS method with the format `<element of document interface>.<selection method>(<name of selector>);`
 - ex: getElementById, querySelector
 - link: https://www.educative.io/answers/what-are-the-different-ways-to-select-dom-elements-in-javascript
 
