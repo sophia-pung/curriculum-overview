@@ -1,0 +1,54 @@
+TUESDAY
+*CLI*
+What do the following do: grep, |, history, ls -a'?
+grep: grep stands for “global regular expression print”. It searches files for lines that match a pattern and returns the results. It is case sensitive.
+|: | is a “pipe”. The | takes the standard output of the command on the left, and pipes it as standard input to the command on the right. You can think of this as “command to command” redirection.
+history: show all the commands you've written
+ls: ls lists all files and directories in the working directory
+-a: lists all contents in the working directory, including hidden files and directories
+
+*Git and GitHub*
+What is Git and what is GitHub?
+-Git is a language used to record changes to files, GitHub is a cloud based server and platform to manage your code base.
+
+What is the importance of the README file?
+-The README file is used to describe a code and document anything important, recourse to be utilized to understand written code for other users.
+
+What is a remote origin?
+-When you clone a repository with git clone , it automatically creates a remote connection called origin pointing back to the cloned repository.
+
+What does a good commit message look like?
+-A descriptive and concise message describing the changes made to the files or folder before pushing it to GitHub.
+
+What does it mean to “Clone” a repo?
+-copying the repository to your local machine.
+
+What is a branch?
+-A branch is essentially is a unique set of code changes with a unique name that can be merged to other branches.
+
+What are the steps needed to get my code from my local computer up to GitHub?
+-git add (filename)
+-git commit -m ('commit message')
+-git push
+
+*UI and UX*
+What is UX?
+-User experience is the feeling associated with the experience of the user on the page.
+
+What is UI?
+-The interface composed of graphical elements that the user sees on a webpage.
+
+How are they different?
+-The user interface is visual and the UX is tactile.
+
+How do UX and UI work together?
+-Together, the UX and the UI make up the frontend of an application.
+
+Cite an example of good UI?
+-semantics, alt, simple, consistency in coloring and styling
+
+Cite an example of good UX?
+-not too much information, consistent, recognizable
+
+Why are they important?
+-the user needs to be able to want to stay on the website, and use the features. 

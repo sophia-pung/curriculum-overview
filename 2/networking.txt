@@ -1,0 +1,16 @@
+FRIDAY
+*Networks/Servers*
+What is an IP address? (Can you figure out what is your IP address?): Internet Protocol address, is a series of numbers that identifies any device on a network. Computers use IP addresses to communicate with each other both over the internet as well as on other networks.
+Your device: 192.168.0.104 //different result than when I look it up on google
+Every website: ping "website name"
+What is a domain name?: a string of text that maps to a numeric IP address, used to access a website from client software.
+
+What is a domain name server?: a protocol within the set of standards for how computers exchange data on the internet and on many private networks, known as the TCP/IP protocol suite.
+
+What is a port?: how a computer can use a single physical network connection to handle many incoming and outgoing requests by assigning a port number to each.
+
+What is a server?: Servers are high-powered computers built to store, process, and manage network data, devices, and systems. Servers are computers that store webpages, sites, or apps. When a client device wants to access a webpage, a copy of the webpage is downloaded from the server onto the client machine to be displayed in the user's web browser.
+
+What is a server request?: an HTTP request message to the server, asking it to send a copy of the website to the client.
+
+Can you explain in your own words, to a non-technical person, how the internet works? #Cristina, what is a good example of this?

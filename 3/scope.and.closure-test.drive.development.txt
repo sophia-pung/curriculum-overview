@@ -1,0 +1,23 @@
+TUESDAY
+*Scope and Closure*
+What is Global Scope?
+-Global Scope is throughout the whole codebase/program.
+
+What is Local Scope?
+-Within individual functions.
+
+How does one access variables inside a function?
+#Cristina -
+
+What is Closure?
+#Cristina, actual defintiion with keywords. -A Closure is a
+
+*Test-Drive Development*
+What test cases do you need?
+-you need test cases for each of the ranges that you are testing in your function
+
+What are the edge cases?
+-cases that are on the border of your function or that your function doesn't directly address
+
+When does one create the tests in TDD?
+-all the time

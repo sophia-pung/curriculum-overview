@@ -1,0 +1,27 @@
+THURSDAY
+*Complex Objects*
+What is the syntax for declaring an Object?
+-var or const <object-name> = { key1: value1, key2: value2,...};
+
+What are Complex Objects? Give an example.
+-Complex Objects are Objects with other Objects inside of them.
+-vehicles = {
+  "Jim's Ford Focus": { "color": "white", "isDamaged": true, "wheels": 4 },
+  "Bob's Suzuki Swift": { "color": "green", "isDamaged": false, "wheels": 4 },
+  "Alex's Harley Davidson": { "color": "black", "isDamaged": false, "wheels": 2 }
+};
+
+Explain some built-in Object Methods in JavaScript.
+-Object.keys(obj): Returns an array of the keys that the object contains.
+-Object.values(obj): Returns an array of the values of each of the elements in the object.
+-Object.entries(obj): Returns an array containing nested arrays for each key-value pair. The first element in each nested array is the key, and the second is the value.
+
+What is a property of an Object?
+-The values associated with a JavaScript object.
+-ex: in vehicles up above, the properties are the cars in the object.
+
+REVIEW: *Maps and Sets*
+Differentiate between dot and bracket notation: https://codeburst.io/javascript-quickie-dot-notation-vs-bracket-notation-333641c0f781
+
+How do you access nested objects inside an array?
+-"arrayname[x][y] or using dot notation arrayname.x.y"

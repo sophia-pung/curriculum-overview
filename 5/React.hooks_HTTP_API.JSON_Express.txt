@@ -1,0 +1,49 @@
+TUESDAY
+*React Hooks*
+Why use hooks?
+
+When to use useState hook - How can I store state and change state using useState?
+
+*HTTP*
+What is the HTTP standard?
+
+HTTP Requests...
+Get:
+Post:
+Put:
+Delete:
+
+HTTP Response:
+
+HTTP Header:
+
+HTTP Status Codes...
+1xx: informational
+2xx: Success
+3xx: Redirect
+4xx: Client error
+5xx: Server error
+
+*API's and JSON*
+What is an API?
+
+What is JSON?
+
+What is the syntax and structure of JSON?
+
+What is the difference between JSON and a Javascript Object?
+
+What are serialization and deserialization?
+
+How to read data from a JSON?
+
+*Express*
+What is Express?
+
+How do you use Express in JS?
+
+What is a route?
+
+What is middleware? (NOTE: if your resource talks about an operating system you are looking at the wrong thing, make sure you are looking at web middleware)?
+
+Explain the MVC framework...

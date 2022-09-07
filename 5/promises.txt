@@ -1,0 +1,17 @@
+THURSDAY
+*Promises*
+What is a promise?
+
+Why are promises important?
+
+What is Fetch() and how is it used?
+
+How do I use promises in JS?
+
+What parameters does Fetch() expect and what will it return?
+
+What is .then()?
+
+Please describe what is happening in each part of 'Fetch(apiURL).then(function..)?
+
+What is the difference between asynchronous and synchronous?

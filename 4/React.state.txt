@@ -1,0 +1,9 @@
+THURSDAY
+*React State*
+What is React state?
+
+What is the difference between React props and state?
+
+When to use React props?
+
+When to use React state?

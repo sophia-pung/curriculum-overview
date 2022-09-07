@@ -1,0 +1,14 @@
+THURSDAY
+*Media Querries*
+What is a media query?
+-Media Querries adjust the functionality or layout of the page as the user changes the size of viewport or other elements about the environemnt that the site in running on.
+
+At what sizes should I plan on having breaks? (mobile, tablet, desktop, large screen)
+the width:
+576px for portrait phones.
+768px for tablets.
+992px for laptops.
+1200px for large devices.
+
+What is a break point?
+A break point is where the media querry will occur. 

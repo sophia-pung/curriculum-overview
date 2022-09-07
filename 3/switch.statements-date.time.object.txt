@@ -1,0 +1,48 @@
+WEDNESDAY
+*Switch Statements*
+Why a switch statement over an if/else?
+-Dependent on how many input options there are. Look cleaner. If/Else > two options, switch statements are for more than two options.
+
+What is the “break” part of a switch statement?
+-end processing of a particular labeled statement within the switch statement. It branches to the end of the switch statement.
+
+What is the syntax of a switch statement?
+let x = "0";
+switch (x) {
+  case 0:
+    text = "Off";
+    break;
+  case 1:
+    text = "On";
+    break;
+  default:
+    text = "No value found";
+}
+
+*JS Date Time Object*
+What is the Date Object?
+-an inbuilt datatype of JavaScript language. It is used to work with dates and times.
+-methods: https://www.tutorialrepublic.com/javascript-reference/javascript-date-object.php
+
+How do I make a new Date instance?
+-Date()
+
+What day corresponds to 0 in Date()?
+-Sunday
+
+What month corresponds to 0 in Date()?
+-January
+
+What are the advantages of using numerical dates (milliseconds) vs. using object dates (new Date())?
+#Cristina
+
+How do you add and subtract dates? (Date math)
+#Cristina is the the example you want:
+function subtractTimeFromDate(objDate, intHours) {
+    var numberOfMlSeconds = objDate.getTime();
+    var addMlSeconds = (intHours * 60) * 60 * 1000;
+    var newDateObj = new Date(numberOfMlSeconds - addMlSeconds);
+
+    return newDateObj;
+}
+#CRISTINA > HOW TO HIDE DS.STORE

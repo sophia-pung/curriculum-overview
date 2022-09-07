@@ -1,0 +1,18 @@
+*React*
+Why React?
+-In an effort to make its own frontend more maintainable, Facebook decided to build its own JavaScript-based library to create fast and functional frontend web applications. Thus, React was born.
+-React is a library that manages the creation and updating of DOM nodes in your web page. It does not do AJAX. It does not do services. It does not do local storage. It does not provide a pretty CSS framework for you. It just dynamically renders stuff into the DOM.
+-Because of Facebook's immense popularity as a developer-centric organization, React was quickly adopted across the software-development industry, eclipsing all other frontend libraries and frameworks for many years. React is still considered the standard frontend library for building modern web applications.
+
+What is JSX and how is it different than HTML?
+-Developers invented a new language that sits on top of JavaScript called JavaScript eXtension, or JSX. JavaScript eXtension (JSX) uses familiar HTML syntax in JavaScript files that can be transpiled by tools like Babel into JavaScript code.
+-JSX looks like HTML, but is not actually HTML. No real HTML DOM elements have been created. You still need React to convert the virtual DOM nodes created from the JSX into real DOM elements.
+
+Which function renders your webpage?
+-ReactDOM.render()
+
+Where in the HTML does the React component render?
+-The root div: <div id="root"></div>
+
+Once you declare a React component, how do you use it? What is the syntax?
+-React components must be capitalized, ex: <SmallButton />

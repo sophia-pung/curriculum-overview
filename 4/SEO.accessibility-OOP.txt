@@ -1,0 +1,18 @@
+MONDAY
+*SEO & Accessibility*
+Why should one use semantic tags?
+
+What types of disabilities should one think of when designing a site?
+
+What is an aria tag?
+
+What is SEO?
+
+How do SEO and accessibility work together?
+
+*HTML*
+-Inheritance
+-Polymorphism
+-Overriding
+-Creating objects from a class
+-The “this” keyword

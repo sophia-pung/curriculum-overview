@@ -1,0 +1,17 @@
+MONDAY
+*Callback Functions*
+What is a callback function?
+-A callback function is a function that is tied to another function which makes the linked function call the other function at some point within the primary functions' body.
+-A function that calls another function in its parameter.
+
+Why do we use callbacks?
+-To make sure that a function runs within another function, and/or to change the scope of functions.
+
+How many things can be returned from a callback?
+-One, only one thing can be returned in a function.
+
+How do I get data out of a callback?
+-Returning the data.
+
+Define a promise in your own words.
+-An object that replaces the data when it comes back.

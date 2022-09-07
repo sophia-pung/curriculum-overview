@@ -1,0 +1,19 @@
+FRIDAY
+*JS*
+What built-in string methods do you know, and what do they do?
+-.length(), .slice(), .splice(), .toString()
+-link: https://www.w3schools.com/jsref/jsref_obj_string.asp
+
+What does 'returning' something mean
+-Return is used to return a particular value from a function to the function caller.
+
+What is a 'parameter’?
+-An input required to use a function.
+
+When should I use 'var', 'let', 'const'?
+-var is outdated and is mutable
+-let is mutable
+-const in immutable
+
+What are the 3 main data structures we have covered and when should they be used?
+#ask Cristina -strings, booleans, numbers 

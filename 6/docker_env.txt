@@ -1,0 +1,22 @@
+WEDNESDAY
+*Docker*
+What is Docker?
+
+Docker Basics: Dockerfile, Images, & Containers
+
+Why use Node.js with Docker?
+
+Why do I need to restart Docker often?
+
+*.env*
+What is a .env?
+-File where you keep sensitive information, such as passwords.
+
+What is a config file?
+-Where you put configurations for your projects.
+
+How do you set environment variables in the terminal?
+-
+
+How to use environment variables in your project using .env, config.js, and destructuring the config variables?
+-

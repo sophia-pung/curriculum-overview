@@ -1,0 +1,16 @@
+THURSDAY
+*Databases and SQL*
+What is database normalization?
+-Taking recursive data and splitting into a normal table.
+
+What are joins?
+-Command used in sequel to join multiple tables together, pets and owners, see which pets does sarah own.
+
+What are junction tables?
+-Junction tables are tables that contain the primary keys of the two tables you want to relate. only used for many to many.
+
+What is a query?
+-Select, get data out of database. A request to obtain data.
+
+What are the keywords to find, remove, and change data?
+-select, delete, update

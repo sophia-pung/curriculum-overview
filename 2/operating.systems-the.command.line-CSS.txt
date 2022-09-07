@@ -1,0 +1,38 @@
+MONDAY
+*Operating Systems*
+What is an operating system?
+
+How does it differ from a “normal program” (such as word)
+
+What is Linux, why do people LOOOOVVVEE it?
+
+*The Command line*
+-How do I move into a directory? (aka Change Directory)
+cd x
+-How do I go up a directory level?
+cd ..
+-How do I go to my root directory?
+cd /
+-How do I make a new directory?
+cd mkdir
+-How do I make a new file?
+touch
+-How do I check what version of a program I am using?
+--version
+
+*CSS*
+What is the box model?
+-The CSS box model is a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content.
+
+How does padding relate to the box?
+-The padding section of the CSS Box Model sits in the space between the HTML content and the border.
+
+How do margins relate to the box?
+-The margin is an invisible space around your box. It pushes other elements away from the box. Margins can have positive or negative values. Setting a negative margin on one side of your box can cause it to overlap other things on the page.
+
+Display (get these memorized)
+-Inline: Displays an element as an inline element. Any height and width properties will have no effect.
+-Block: Displays an element as an inline-level block container. You CAN set height and width values.
+-Inline-Block: It’s formatted just like the inline element, where it doesn’t start on a new line. BUT, you can set width and height values. No line-break after the element, so the element can sit next to other elements.
+Why would I want to change the default display of a span? (hint: can you add padding and margins to the top/bottom of an inline element? Why / Why not?)
+-to add padding and margins to the top/bottom of an inline element.

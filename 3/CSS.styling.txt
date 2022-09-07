@@ -1,0 +1,10 @@
+FRIDAY
+*CSS Styling*
+What are the different methods to add CSS into HTML page?
+-Inline - by using the style attribute inside HTML elements. Internal - by using a <style> element in the <head> section. External - by using a <link> element to link to an external CSS file.
+
+What are CSS styling forms?
+#@Cristina what do you mean by this
+
+What is CSS styling table?
+#@Cristina what do you mean by this 

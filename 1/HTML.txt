@@ -1,0 +1,11 @@
+WEDNESDAY
+*HTML*
+How is an HTML document structured?
+-Three parts: a line containing HTML version information (<!DOCTYPE html> <html lang="en">), a declarative header section (delimited by the HEAD element), a body, which contains the document's actual content.
+
+What is the key difference between HTML Elements and Tags?
+-The element contains portions of the contents of the documents, tags are keywords that are included in elements, to specify the type of element.
+
+What JS array methods can you name?
+-.map(), .filter(), .join(), .push(), .pop()
+-link: https://www.w3schools.com/jsref/jsref_obj_array.asp

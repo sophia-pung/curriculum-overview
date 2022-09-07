@@ -1,0 +1,22 @@
+MONDAY
+*Node*
+What is node.js?
+
+What is the difference between NPM and Node?
+
+*Internet Works*
+What is a port?
+
+What is a server?
+
+What is a request handler?
+
+*onClick Method*
+What is the onClick method?
+
+How and when would you use the onClick(functionToRun()) method?
+
+*React useState*
+How do I manage my state using a functional component?
+
+What does the useState method return?

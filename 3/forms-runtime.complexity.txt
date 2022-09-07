@@ -1,0 +1,42 @@
+MONDAY
+*Runtime Complexity*
+What is runtime complexity?
+Understand the following runtimes: O(1), O(log n), O(n), O(n log n), O(n^2), and O(2^n)
+-order n: look at every single page in the dictionary, runtime is proportional to the input
+-order log n: # of pages is equivalent to the log of n, 10*x = 3, usually pretty small
+-Runtime complexity tells you how the program would scale, based on the input
+
+How do we talk about runtime complexity?
+-In terms of big O notation, using O, relative to the input (n)
+
+Give me an example of each the following run times: Constant, linear, O(n^2)...
+-constant, throwing a dicionary away, searching through the dictionary to find a word page by page, n^2, two for-loops
+
+*Command Line Interfaces*
+Please define the terminal, bash, zsh, git. How are they similar, how are they different?
+-terminal: terminal immulator, window that comes up. the window floating on your screen (graphical program)
+-bash and zsh: are the langugues you use within the terminal
+-git: a source control language that is used to tracking changes in the source code
+
+*HTML Forms*
+How to create HTML forms.
+<forms>
+
+How to add validation in the attributes.
+<required>
+
+How to submit the form.
+<submit>
+
+Create a practice for with each type of form field...
+-Text: text field- no autofill
+-Radio: round buttons for users to check
+-Checkbox: square buttons for users to check
+-Select (dropdown): select from a dropdown menu
+
+Understand how the <label> relates to the form element, (Note there are 2 ways of adding a label to a form field, what are they?)
+-label allows you to connect the input button and gives it a label, Firstly, use <label> tag by providing the <input> and id attribute. The <label> tag needs a for attribute whose value is the same as input id.
+-Alternatively, <input> tag use directly inside the <label> tag. In this case, the for and id attributes are not needed because the association is implicit.
+
+What is in the form “event” on submit?
+-a submit button

@@ -1,0 +1,23 @@
+WEDNESDAY
+*React Props*
+What is the purpose of props in React components?
+-To pass data from parent component to child.
+-Be able to pass props from one component to another.
+-Passing props to a component instance.
+-Accepting and using props.
+
+What can props not do?
+-They cannot be reassigned on the child component.
+
+What is JSX?
+-JSX- JavaScript syntax extension. It is a JavaScript (extension) that allows us to describe React's object tree using a syntax that resembles that of an HTML template. It is just an XML-like extension that allows us to write JavaScript that looks like markup and have it returned from a component.
+breakdown {
+-The term "package" is used to describe code that's been made publicly available. A package can contain a single file or many files of code.
+-
+An extension language is a programming language interpreter offered by an application program, so that users can write macros or even full-fledged programs to extend the original application.
+}
+ex: do this with code, drill down to see how it works. code is language, write it down in my language and explain it to myself. share with expert and get clarification.
+"childlike wonder how everything works"- let child play when you don't understand. takes away the fear. no fear yet, fear doesn't let you learn.
+changes your interaction with code. so much data- be skeptical in google, see what the context of the data. get another source to double check.
+embrace that I might not know. (rabbit hole- computers are just files all the way down)- if you run out of places to look.
+"how do I find something about _x_?"

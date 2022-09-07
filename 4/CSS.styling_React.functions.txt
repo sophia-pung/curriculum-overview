@@ -1,0 +1,26 @@
+FRIDAY
+*CSS Styling*
+Styling lists:
+#@Cristina what do you mean by this
+
+Styling tables:
+#@Cristina what do you mean by this
+
+Buttons:
+link: https://moderncss.dev/css-button-styling-guide/
+
+Display:
+#@Cristina what do you mean by this
+
+*React Functions*
+What do the functions  map, filter, and reduce do, when would be a good example of when to use them? Does this mutate my data?
+-map: creates a new array after performing a function on all indices in an input array.
+-filter: creates a shallow copy of a portion of a given array, filtered down to just the elements from the given array that pass the test implemented by the provided function.
+-reduce: executes a user-supplied "reducer" callback function on each element of the array.
+
+ex: const map1 = array1.map(x => x * 2);
+ex: const result = words.filter(word => word.length > 6);
+ex: numbers.reduce(myFunc);
+
+What are the two ways to add style to a component in React? (think of instead class=, you use…
+#@Cristina what do you mean by this
